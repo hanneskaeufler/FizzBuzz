@@ -2,7 +2,7 @@ require "minitest/autorun"
 require_relative "fizz_buzz"
 
 describe FizzBuzz do
-    it "returns 1 for 1" do
+    it "takes a turn at FizzBuzz" do
         cases = [
             [1, 1],
             [2, 2],
