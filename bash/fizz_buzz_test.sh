@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source "fizz_buzz"
+source "fizz_buzz.sh"
 
 test_run() {
     results[1]=1
