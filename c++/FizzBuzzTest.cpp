@@ -48,8 +48,3 @@ int main()
 
     return 0;
 }
-
-bool assertEquals()
-{
-    return false;
-}
